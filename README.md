@@ -1,4 +1,4 @@
-# ImmersiveVR_Dhaba
+# VR Dhaba
 Final VR Project for Immersive Experiences
 
 
