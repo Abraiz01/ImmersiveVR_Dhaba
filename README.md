@@ -1,5 +1,5 @@
 # VR Dhaba
-A VR experience mad eon Unity that lets you sit in a Dhaba (a desi chai restaurant), with lofi music and rain while you scroll through your photo collage on a truck-art painting.
+A VR experience made on Unity that lets you sit in a Dhaba (a desi chai restaurant), with lofi music and rain while you scroll through your photo collage on a truck-art painting.
 
 
 
