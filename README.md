@@ -1,5 +1,5 @@
 # VR Dhaba
-Final VR Project for Immersive Experiences
+A VR experience that lets you sit in a Dhaba (a desi chai restaurant), with lofi music and rain while you scroll through your photo collage on a truck-art painting.
 
 
 
